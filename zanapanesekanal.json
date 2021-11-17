@@ -1,0 +1,13 @@
+{
+    "Allchanel": [
+	    {
+                "kanalismi": "TV ASAHI",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"http://203.162.235.41:16906"
+					}
+				]
+        }
+  ]
+}
