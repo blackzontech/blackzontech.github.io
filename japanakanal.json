@@ -1,0 +1,130 @@
+{
+    "Allchanel": [
+	    {
+                "kanalismi": "TV ASAHI",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"http://203.162.235.41:16906"
+					}
+				]
+        },
+		{
+                "kanalismi": "NHK BS1",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"http://203.162.235.41:16909"
+					}
+				]
+        },
+		{
+                "kanalismi": "NHK 华语视界",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanalismi": "NIPPON TV",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"http://ntv1.mov3.co/hls/ntv.m3u8"
+					}
+				]
+        },
+		{
+                "kanalismi": "NHK G",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://nhk1.mov3.co/hls/nhk.m3u8"
+					}
+				]
+        },
+		{
+                "kanalismi": "NHK ENGLISH",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+					}
+				]
+        },
+		{
+                "kanalismi": "NIPPON TV NEWS 24",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://www.news24.jp/livestream/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanalismi": "TV TOKYO",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanalismi": "TOKYO MX",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://neetball.net/live/test3.m3u8"
+					}
+				]
+        },
+		{
+                "kanalismi": "TBS",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"http://tbs.mov3.co/hls/tbs.m3u8"
+					}
+				]
+        },
+		{
+                "kanalismi": "ATX",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://sub2.neetball.net/live/neet.m3u8"
+					}
+				]
+        },
+		{
+                "kanalismi": "FUJI TV",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://fujitv1.mov3.co/hls/fujitv.m3u8"
+					}
+				]
+        },
+		{
+                "kanalismi": "WeatherNews",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8"
+					}
+				]
+        },
+		{
+                "kanalismi": "Wowow Cinefil",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"http://203.162.235.41:16916"
+					}
+				]
+        }
+  ]
+}
