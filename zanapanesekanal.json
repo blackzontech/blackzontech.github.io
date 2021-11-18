@@ -1,0 +1,13 @@
+{
+    "Allchanel": [
+	    {
+                "kanalismi": "SUN",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"http://193.42.99.133:23455/2630/playlist.m3u8"
+					}
+				]
+        }
+  ]
+}
