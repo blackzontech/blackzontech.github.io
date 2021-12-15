@@ -1,0 +1,22 @@
+{
+    "Allchanel": [
+	    {
+                "kanalismi": "ABC",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"http://211.21.12.236:11935/live/gx06.stream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanalismi": "bspon",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"http://211.21.12.236:11935/live/bs02.stream/playlist.m3u8"
+					}
+				]
+        }
+  ]
+}
