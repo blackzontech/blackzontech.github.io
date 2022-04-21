@@ -1,0 +1,266 @@
+{
+    "Allchanel": [
+	    {
+                "kanalismi": "TBS",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://tbs1.mov3.co/hls/tbs.m3u8"
+					}
+				]
+        },
+		{
+                "kanalismi": "NIPPON TV",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://ntv2.mov3.co/hls/ntv.m3u8"
+					}
+				]
+        },
+		{
+                "kanalismi": "TV TOKYO",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanalismi": "TV ASAHI",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanalismi": "FUJI TV",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanalismi": "ANIMAX",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanalismi": "ATX",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://sub2.neetball.net/live/neet.m3u8"
+					}
+				]
+        },
+		{
+                "kanalismi": "NHK G",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://nhk2.mov3.co/hls/nhk.m3u8"
+					}
+				]
+        },
+		{
+                "kanalismi": "NHK ENGLISH",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+					}
+				]
+        },
+		{
+                "kanalismi": "NHK BS1",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"http://125.227.210.37:8939/VideoInput/play.ts"
+					}
+				]
+        },
+		{
+                "kanalismi": "NHK 华语视界",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanalismi": "KIDS STATION",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanalismi": "STAR CHANNEL 1",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanalismi": "STAR CHANNEL 2",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanalismi": "Nihon Eiga TV",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanalismi": "Lala tv",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanalismi": "ファミリー劇場",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanalismi": "J SPORT 1",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanalismi": "J SPORT 2",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanalismi": "J SPORT 3",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanalismi": "GAORA SPORT",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanalismi": "釣リビジョン🐟",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanalismi": "NIPPON TV NEWS 24",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://www.news24.jp/livestream/index.m3u8?type=jp"
+					}
+				]
+        },
+		{
+                "kanalismi": "WeatherNews",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8"
+					}
+				]
+        },
+		{
+                "kanalismi": "Wowow Cinefil",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"http://51.79.193.108:8080/hls/j00028/index.m3u8?type=jp"
+					}
+				]
+        },
+		{
+                "kanalismi": "MOVIE PLUS",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanalismi": "東映チャンネル",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanalismi": "Neco",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanalismi": "エムオン!",
+                "kanalbilgiler": [
+					{
+				  	"kanalturu":"m3u8",
+				  	"kanalurl":"https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        }
+		
+  ]
+}
