@@ -1,0 +1,34 @@
+{
+  "countries": [
+    {
+      "name": "Spain",
+      "ambits": [
+        {
+          "name": "Generalistas",
+          "channels": [
+            {
+              "name": "La 1",
+              "web": "https://www.rtve.es/play/videos/directo/la-1/",
+              "logo": "https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",
+              "epg_id": "La1.TV",
+              "options": [
+                {
+                  "format": "m3u8",
+                  "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8",
+                  "geo2": null,
+                  "res": null,
+                  "lang": null
+                },
+                {
+                  "format": "m3u8",
+                  "url": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8",
+                  "geo2": null,
+                  "res": null,
+                  "lang": null
+                }
+              ],
+              "extra_info": []
+            }
+		]}
+		]}
+		]}
